@@ -16,11 +16,10 @@ Entre na pasta do projeto:
 ```
 $ cd tela-login-tailwindcss
 ```
+Edite o arquivo `index.html` com o seu editor preferido e integre ao seu sistema. 
 
 ## Demo
 [tela-login-tailwindcss](https://codepen.io/zapwebsites/pen/eYQBGVj)
-
-Edite o arquivo `index.html` com o seu editor preferido e integre ao seu sistema. 
 
 ## Licença
 [MIT License](LICENSE.md)
